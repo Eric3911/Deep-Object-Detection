@@ -19,6 +19,7 @@ Inspired by awesome object detection, deep object detection does a easy way for 
   - [SENet : 2017](#senet--2017)
   - [MobileNet-V2:2018](#mobilenet-v22018)
   - [ShuffleNet-V2: 2018](#shufflenet-v2-2018)
+  - [skNet]
 - [图解Object_Detection框架](#%E5%9B%BE%E8%A7%A3objectdetection%E6%A1%86%E6%9E%B6)
   - [Multi-stage Object Detection](#multi-stage-object-detection)
     - [RCNN : 2014](#rcnn--2014)
@@ -35,6 +36,7 @@ Inspired by awesome object detection, deep object detection does a easy way for 
     - [RetinaNet : 2017](#retinanet--2017)
     - [YoLov3 : 2018](#yolov3--2018)
     - [M2Det : 2019](#m2det--2019)
+    - [RFBNet : ](#--2019)
     - [CornerNet-Lite : 2019](#cornernet-lite--2019)
 - [数据集Object_Detection](#%E6%95%B0%E6%8D%AE%E9%9B%86objectdetection)
   - [General Dataset](#general-dataset)
